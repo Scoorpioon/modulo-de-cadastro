@@ -1,0 +1,14 @@
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\bin\Debug\net8.0\Fase5.exe
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\bin\Debug\net8.0\Fase5.deps.json
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\bin\Debug\net8.0\Fase5.runtimeconfig.json
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\bin\Debug\net8.0\Fase5.dll
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\bin\Debug\net8.0\Fase5.pdb
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.AssemblyInfoInputs.cache
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.AssemblyInfo.cs
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.csproj.CoreCompileInputs.cache
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.dll
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\refint\Fase5.dll
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.pdb
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\Fase5.genruntimeconfig.cache
+C:\Users\GabrielAlexandreNasc\source\repos\Fase5\obj\Debug\net8.0\ref\Fase5.dll
